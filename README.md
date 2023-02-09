@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeheesun&show_icons=true&theme=radical) -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=Hi!%20I'm%20HeeSeon&fontColor=000000&fontSize=50&desc=Web%20Development&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=Hi!%20I'm%20HeeSeon👋&fontColor=000000&fontSize=50&desc=Web%20Developer&animation=twinkling)
 
 
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
  - 📫 How to reach me heeheesun00@gmail.com
 
- 
+<br><br> 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
