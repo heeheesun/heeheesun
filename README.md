@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeheesun&show_icons=true&theme=radical) -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=Hi%20there👋&fontColor=000000&fontSize=70&desc=Nice%20to%20meet%20you!&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=안희선&fontColor=000000&fontSize=70&desc=Web%20Developer&animation=twinkling)
 
 
 
